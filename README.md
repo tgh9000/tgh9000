@@ -10,7 +10,7 @@
 </p>
 
 <!-- EDIT: your real name -->
-<h1 align="center">Hi, I'm Your Name 👋</h1>
+<h1 align="center">Hi, I'm Adrian</h1>
 
 <p align="center">
   <!-- EDIT: check your university and year -->
@@ -22,9 +22,9 @@
 
 <p align="center">
   <!-- EDIT: your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/adrian-barra-cornes"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <!-- EDIT: your email address (keep the mailto: part) -->
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-182B3D?style=for-the-badge&logo=gmail&logoColor=FFB547" alt="Email"></a>
+  <a href="mailto:adrianbarracornes@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/tgh9000?tab=repositories"><img src="https://img.shields.io/badge/Projects-All%20repos-182B3D?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
   <!-- Optional: link a PDF of your CV (e.g. upload it to this repo and link to it)
   <a href="./CV.pdf"><img src="https://img.shields.io/badge/CV-Download-FFB547?style=for-the-badge&logo=readdotcv&logoColor=1A1A1A" alt="CV"></a>
@@ -36,9 +36,12 @@
 ## About me
 
 - ✈️ I enjoy building software that models real systems. My **[airport simulator](https://github.com/tgh9000/Airport-modelling-Project-)** runs configurable air traffic scenarios and presents the results through detailed graphs.
+- 📈 I'm building a stock exchange matching engine that matches buy and sell orders using price-time priority, supports limit, market, stop and iceberg orders, and is designed around low-latency data structures for the order book.
+- 📈 For my third-year project, I'm fine-tuning large language models to predict stock volatility from earnings call transcripts, and testing whether they pick up on what executives actually say or just recognise which company is speaking.
 - ♟️ I wrote a **[chess engine](https://github.com/tgh9000/chess-engine-compeititon)** for a competition, and I enjoy the algorithms side of CS: search, data structures and making things fast.
 - 🧠 I'm comfortable across paradigms, from object-oriented Java and Python to functional Haskell and C# in Unity.
 - 🎮 I've been making games since my A levels, starting with a **[2D platformer](https://github.com/tgh9000/2D-platformer)** in Unity.
+
 <!-- EDIT (optional): uncomment and fill in
 - 🌱 Currently learning: ...
 - 🤝 Outside of code: societies, sport, hobbies ...
@@ -51,11 +54,29 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools**<br>
 ![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3E7C17?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
 <!-- Uncomment any of these you've genuinely used:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
@@ -132,4 +153,4 @@
   <img src="https://streak-stats.demolab.com?user=tgh9000&hide_border=true&background=182B3D&ring=3DDC97&fire=FFB547&currStreakLabel=3DDC97&currStreakNum=E8EEF4&sideNums=E8EEF4&sideLabels=E8EEF4&dates=8A9BB0&stroke=24394F" alt="tgh9000's contribution streak">
 </p>
 
-<p align="center"><sub>📈 Analyst rating: strong buy.</sub></p>
+
